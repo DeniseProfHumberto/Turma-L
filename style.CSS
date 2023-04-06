@@ -4,14 +4,14 @@
 }
 .cabeçalho {
 
-    background-image: #9E4784;
-    color: #FFFFFF;
+    background-color: #9E4784;
+    color: #000000;
     display:flex;
     justify-content: space-around;
 }
 .cabeçalho-logo {
-width: 1%;
-height: 1%;
+width: 20%;
+height: 20%;
 }
 
 .cabeçalho-itens {
